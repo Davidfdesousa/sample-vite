@@ -4,6 +4,7 @@ export default {
         "@semantic-release/commit-analyzer",
         "@semantic-release/release-notes-generator",
         "@semantic-release/changelog",
+        "@semantic-release/npm",
         [
             "@semantic-release/git",
             {
@@ -11,9 +12,7 @@ export default {
                 message: "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}",
             },
         ],
-        // Plugins que exigem tokens (descomentados apenas em produção):
-        // "@semantic-release/npm",
-        // "@semantic-release/github",
+        "@semantic-release/github",
     ],
     repositoryUrl: "https://github.com/Davidfdesousa/sample-vite",
 };
