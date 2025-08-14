@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/Davidfdesousa/sample-vite/compare/v1.1.0...v1.1.1) (2025-08-14)
+
+
+### Bug Fixes
+
+* remocao de docs sem uso ([c79cb07](https://github.com/Davidfdesousa/sample-vite/commit/c79cb07075b19b5337eb08fbeb867ed249d619cc))
+
 # [1.1.0](https://github.com/Davidfdesousa/sample-vite/compare/v1.0.0...v1.1.0) (2025-08-14)
 
 
