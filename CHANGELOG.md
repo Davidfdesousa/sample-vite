@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/Davidfdesousa/sample-vite/compare/v1.1.1...v1.2.0) (2025-08-14)
+
+
+### Features
+
+* adicinonando novo logo do vite ([1861c97](https://github.com/Davidfdesousa/sample-vite/commit/1861c970ea0651014a078c2b82ec7a257da87b3f))
+
 ## [1.1.1](https://github.com/Davidfdesousa/sample-vite/compare/v1.1.0...v1.1.1) (2025-08-14)
 
 
