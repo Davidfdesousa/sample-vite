@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Davidfdesousa/sample-vite/compare/v1.0.0...v1.1.0) (2025-08-14)
+
+
+### Features
+
+* configurar semantic-release ([445af20](https://github.com/Davidfdesousa/sample-vite/commit/445af2045fe5caea7c9c89773c4b2304c8b5700e))
+
 # 1.0.0 (2025-08-14)
 
 
